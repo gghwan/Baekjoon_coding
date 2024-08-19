@@ -1,7 +1,9 @@
+package jordi;
+
 import java.util.ArrayDeque;
 import java.util.Arrays;
 
-class Solution {
+class Main {
 
     public static void main(String[] args) {
         int[][] rc = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
